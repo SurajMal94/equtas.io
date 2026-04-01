@@ -1,0 +1,1 @@
+function Hi() {                        var a = ("RAM");             document.write(a);                               }
